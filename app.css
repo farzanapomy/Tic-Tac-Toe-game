@@ -21,3 +21,8 @@ header h1{
     margin-bottom: 30px;
 }
 
+#alert{
+    text-align: center;
+    color: green;
+
+}
